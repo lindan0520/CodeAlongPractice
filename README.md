@@ -1,2 +1,2 @@
 # CodeAlongPractice
-Practicing along with Udemy Courses
+Practicing along with Udemy and CodeAcademy Courses
